@@ -31,3 +31,16 @@ as a dev i want a db with auto id on products added (random || incremental, don'
 as a dev i want a single sign in page to simplify seller/user process
 as a dev i want 'related products' carousel (based on tag & user's prev purchases) to sell mo' prodz
 as a client i want G-bay logo to establish brand identity
+
+
+Post-mortem (Cédric)
+
+Planning is essential before doing anything. We chose node.js without knowing if it's really the best solution for this project. Next we chose React, something I really want to learn and get good at. As we only had 3 days with React it's pretty difficult to utilise it in a proper way for this project. I think more knowledge is required before you start acting and doing. By the end of this project I'm not even sure what my task was. Went from front-end to back-end to full stack and this made everything super chaotic. Proper structure was missing more than anything else. The noise and distraction at campus really didn't help me, lost a lot of time on those days. 
+
+There are a lot of things we can say but I think the way to approach this for a next project is that you take a step back and look at what's in front of you and then start figuring it out in smaller steps. I believe everyone got overwhelmed by the entirity of the project which can numb you, at least I felt that in certain moments. Breaking it down in smaller doable pieces was needed. Team work is really difficult, but I believe that it's not because of the people but because of the lack of knowledge. This creates frustration and friction. 
+
+I really would like to end on a positive note because there is always something learned, especially in failure. This project has hurt and impacted me on many levels. Good thing is, this is absolutely necessary for growth. Next project I don't want to go through this again.
+I will remember what not to do and how to get a better structure from the get go.
+
+
+
