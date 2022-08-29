@@ -4,6 +4,10 @@ const PORT = process.env.PORT || 3001;
 
 const app = express();
 
+const bodyParser = require('body-parser');
+
+const path = require('path');
+
 const Database = require("./models/Database");
 
 // routing; cors exception/work-around
@@ -108,6 +112,15 @@ app.post("/api/order", async (req, res) => {
   }
 });
 
+const root = require('path').join(__dirname, 'build')
+app.use(express.static(root));
+app.get("*", (req, res) => {
+  res.sendFile('index.html', { root });
+})
+
+
 app.listen(PORT, () => {
   console.log(`Server listening on ${PORT}`);
 });
+
+

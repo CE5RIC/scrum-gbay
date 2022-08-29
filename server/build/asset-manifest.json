@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.365332f0.css",
+    "main.js": "/static/js/main.b3ea1534.js",
+    "static/media/spiderman.jpeg": "/static/media/spiderman.b49822837fba7494a900.jpeg",
+    "static/media/logo.png": "/static/media/logo.5b83b2bb044f30f05fd9.png",
+    "index.html": "/index.html",
+    "main.365332f0.css.map": "/static/css/main.365332f0.css.map",
+    "main.b3ea1534.js.map": "/static/js/main.b3ea1534.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.365332f0.css",
+    "static/js/main.b3ea1534.js"
+  ]
+}
