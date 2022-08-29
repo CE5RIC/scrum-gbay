@@ -1,0 +1,84 @@
+POST MORTUM
+
+A post-mortem report enables you to document important findings and put issues and ideas into accountable action.
+
+1. List out any issues and ideas discussed in your post-mortem meeting.
+2. Write down potential solutions for each issue and idea.
+3. Add action items for each issue, idea, or solution.
+4. Capture additional details as notes.
+
+8 ground rules for project post-mortem meetings
+
+Before you jump in, it’s very important to remember these meetings are meant to discuss issues openly without creating a negative working environment. There’s a fine line between discussing issues and complaining about them.
+
+In order to make any progress, you need to talk freely and openly (not negatively) about how you can improve your process and, as a result, your work. To ensure this happens, set and discuss some basic ground rules for your project's post-mortem meeting:
+
+    1. Bring in a facilitator to guide the meeting. As the project manager, this doesn’t need to be you.
+    If you were part of the project team, you should participate in the meeting. If you can’t get someone to fill
+    this role in the meeting, make facilitation a team effort.
+    2. Keep it light. This is a learning session and should be fun.
+    Kick it off by discussing the positives and celebrating your successes.
+    3. Be constructive, not destructive. State the issue, and focus on the solution.
+    Identify where the process works and where it breaks down.
+    4. Don’t get personal. This isn’t about placing blame or finger-pointing.
+    You’re there to discuss challenges and resolve issues, so keep it high-level.
+    If a problem was about a person, that should have been discussed with that person’s supervisor.
+    5. Cover all your bases. Figure out what made the project simple, difficult, enjoyable, or miserable.
+    6. Be respectful of one another’s point of view. Everyone has equal footing in this meeting.
+    That means no one should dominate the conversation. Give every team member a chance to share their perspective.
+    7. Take notes. It’s not important to capture every detail, as much as the issue, the solution, action items,
+    and who owns each line item. You may also want to keep track of new ideas so your team has a roadmap for process improvement.
+    8. Abide by the meeting goal. Make it a point to leave with a set of action items and owners.
+
+It's basically a group effort to make changes. We need to find a way to share the project's post-mortem report.
+However, the majority of our team chose to write everything down in person.
+
+What went wrong for me?
+
+|===
+|Issue  |Solution |Action item |Notes
+
+|scrum: tickets not clear
+|Think more and detailed about all the steps which needs to be taken
+|learn more about scrum
+|
+
+|Not knowing what to do. The tickets where not clear and we did not use it correctly
+|Make clear agreements
+|learn more about scrum and the use of Jira
+|https://www.atlassian.com/software/jira?&aceid=&adposition=&adgroup=143541081052&campaign=17623646559&creative=607643206460&device=c&keyword=scrum&matchtype=e&network=g&placement=&ds_kids=p71908719977&ds_e=GOOGLE&ds_eid=700000001756546&ds_e1=GOOGLE&gclid=CjwKCAjwx7GYBhB7EiwA0d8oe_kJepRfjpTIsLmHzyLCIw--dxfowEqtmaZxMnfgExC0h8HOX7mEyRoC6uwQAvD_BwE&gclsrc=aw.ds
+
+|Not knowing what was already done and what was still needed
+|Mae more use of the tickets and make the tickets more clear
+|learn more about scrum and the use of Jira
+|
+
+|Backend and frontend had no good communication, for me, it was not clear wat frontend needed from backend.
+|Better communication, better preparation
+|Learn more about how backend en frontend works together
+|
+
+|We messed up wit Github
+|Learn more about Github
+|spend some time reading some information
+|https://phoenixnap.com/kb/how-to-use-git
+
+|for me this project was very big and sometimes too unclear
+|split large tasks into small clear tasks
+|before I start a task : split into clear tasks and see which pieces are for me and which are for other team members
+|
+
+|lack of knowledge
+|study more,
+before starting the project, spent some more time to learn about the subject.
+|try to make even more time to study after the hours of the course hours and on weekend
+|The course goes very quickly, and despite the fact that I still study several hours a week after class,
+the curriculum is far too much to keep up with.
+
+|give feedback to teammates
+|open communication, daring to speak to other people respectfully about the mistakes they make
+|
+|I asked for feedback from my teammates so that I could learn from my mistakes.
+However, no one wanted to quote my 'mistakes'
+
+|===
